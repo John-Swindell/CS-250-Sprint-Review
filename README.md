@@ -1,10 +1,10 @@
 # Essential Questions Reflection
 
-This section reflects on some of the essential questions encountered throughout the Computer Science program.
+This section reflects on some of the essential questions encountered throughout the Computer Science program, more specifically, CS-250's Scrum/Agile focused course.
 
 ### How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-Interpreting user needs starts with active listening, asking clarifying questions, and developing empathy to understand the user's goals and context, not just their explicit requests. It involves analyzing these needs and breaking them down into specific, actionable requirements. Implementing these needs means translating those requirements into functional, tested code and features within the program. User stories are incredibly helpful in this process because they frame requirements from the user's perspective ("As a [user type], I want [action] so that [benefit]"). This keeps the focus on delivering *value*, facilitates clear communication between stakeholders and developers, helps prioritize work, and provides a basis for defining acceptance criteria to ensure the need is truly met.
+Interpreting user needs starts with active listening, asking clarifying questions, and developing empathy to understand the user's goals and context, not just their explicit requests. It involves analyzing these needs and breaking them down into specific, actionable requirements. Implementing these needs means translating those requirements into functional, tested code and features within the program. User stories are incredibly helpful in this process because they frame requirements from the user's perspective ("As a [user type], I want [action] so that [benefit]"). This keeps the focus on delivering value, facilitates clear communication between stakeholders and developers, helps prioritize work, and provides a basis for defining acceptance criteria to ensure the need is truly met.
 
 ### How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
 
